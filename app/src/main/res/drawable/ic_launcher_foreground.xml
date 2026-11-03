@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- ekor -->
+    <path android:fillColor="#FFD166" android:pathData="M66,54 L82,40 Q78,54 82,68 Z" />
+    <!-- badan ikan -->
+    <path android:fillColor="#FFFFFF" android:pathData="M28,54 C34,38 58,36 70,54 C58,72 34,70 28,54 Z" />
+    <!-- sirip -->
+    <path android:fillColor="#CDEFF7" android:pathData="M44,43 L52,34 L56,44 Z" />
+    <!-- mata -->
+    <path android:fillColor="#0B6E8A" android:pathData="M38,52 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <!-- gelombang air -->
+    <path android:fillColor="#00000000" android:strokeColor="#CDEFF7" android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M32,76 Q38,72 44,76 T56,76 T68,76 T80,76" />
+</vector>
